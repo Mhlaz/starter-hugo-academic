@@ -1,8 +1,6 @@
 ---
-role: "HCI researcher @ Verbraucherinformatik Instititute, PhD Student and
-  lecturer @ University of Siegen "
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: HCI researcher, Computer Engineer, Interaction Designer
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -24,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: "University of Siegen "
+    url: https://www.uni-siegen.de/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -39,12 +37,9 @@ education:
       year: 2008
 superuser: true
 highlight_name: true
-title: Fatemeh Alizadeh
+title: Fatemeh (Mahla) Alizadeh
 email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
